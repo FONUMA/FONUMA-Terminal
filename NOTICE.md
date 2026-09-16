@@ -7,6 +7,6 @@ This repository is provided for product information and links to official FONUMA
 Official product information and downloads:
 
 - https://fonuma.com/terminal/
-- https://fonuma.com/downloads/#terminal
+- https://fonuma.com/download/#terminal
 
 Copyright © 2026 WITIVE. All rights reserved.

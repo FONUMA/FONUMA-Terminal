@@ -2,7 +2,7 @@
 
 **Multi-Terminal Workspace for macOS**
 
-[공식 제품 페이지](https://fonuma.com/terminal/) · [다운로드](https://fonuma.com/downloads/#terminal) · [업데이트 및 피드백](https://fonuma.com/feedback/?product=terminal)
+[공식 제품 페이지](https://fonuma.com/terminal/) · [다운로드](https://fonuma.com/download/#terminal) · [업데이트 및 피드백](https://fonuma.com/feedback/?product=terminal)
 
 ![FONUMA Terminal workspace](https://fonuma.com/assets/fonuma-terminal-share.png)
 
@@ -22,7 +22,7 @@ FONUMA Terminal은 프로젝트별 터미널, AI CLI, 작업 메모와 실행 �
 
 서명·공증된 최신 설치 파일은 FONUMA 공식 홈페이지에서만 제공합니다.
 
-### [FONUMA Terminal 공식 다운로드 →](https://fonuma.com/downloads/#terminal)
+### [FONUMA Terminal 공식 다운로드 →](https://fonuma.com/download/#terminal)
 
 Mac의 칩 종류와 지원 운영체제, 버전, 파일 검증 정보는 다운로드 페이지에서 확인해 주세요. 비공식 재배포 파일이나 다른 주소에서 제공하는 설치 파일은 공식 배포본으로 보증하지 않습니다.
 
@@ -37,7 +37,7 @@ Mac의 칩 종류와 지원 운영체제, 버전, 파일 검증 정보는 다운
 FONUMA Terminal is a multi-terminal workspace for organizing project terminals, AI CLI workflows, notes, and execution history in one place.
 
 - [Product overview](https://fonuma.com/en/terminal/)
-- [Official downloads](https://fonuma.com/en/downloads/#terminal)
+- [Official downloads](https://fonuma.com/en/download/#terminal)
 - [Updates and feedback](https://fonuma.com/en/feedback/?product=terminal)
 
 Official signed and notarized installers are distributed only through the FONUMA website. This repository does not distribute the application source code or installer binaries.
