@@ -8,10 +8,15 @@
 
 FONUMA Terminal은 프로젝트별 터미널, AI CLI, 작업 메모와 실행 기록을 한곳에서 관리하는 개발 도구입니다. 여러 터미널을 탭과 분할 화면으로 구성하고, Codex CLI와 Claude CLI를 사용하는 작업 흐름을 정리할 수 있습니다.
 
+현재 공개 Mac 베타는 **0.1.0 Beta 114**입니다. 실행 중인 터미널의 안전한 일시 정지·계속, 프로젝트별 실행기, 2단계 프로젝트 폴더와 작업 화면 가독성 개선을 포함합니다.
+
 ## 주요 기능
 
 - 프로젝트와 그룹별 멀티 터미널 관리
+- 최대 2단계 프로젝트 폴더 구성
 - 터미널 탭 및 분할 화면
+- 실행 중인 터미널 프로세스 그룹 일시 정지·계속
+- 프로젝트별 명령 실행기 관리 및 일괄 실행
 - Codex CLI·Claude CLI 연결 설정과 대화 재연결 정보 관리
 - AI 작업 상태와 실행 이력 확인
 - 터미널별 자동 저장 작업 메모
@@ -35,6 +40,8 @@ Mac의 칩 종류와 지원 운영체제, 버전, 파일 검증 정보는 다운
 ## English
 
 FONUMA Terminal is a multi-terminal workspace for organizing project terminals, AI CLI workflows, notes, and execution history in one place.
+
+The current public Mac beta is **0.1.0 Beta 114**, featuring safe pause and resume for running terminal process groups, project-specific launchers, two-level project folders, and clearer workspace dialogs.
 
 - [Product overview](https://fonuma.com/en/terminal/)
 - [Official downloads](https://fonuma.com/en/download/#terminal)
